@@ -1,0 +1,55 @@
+https://uw-team.org/
+hack me 1.0
+level1: a jednak umiem czytac
+level2: to bylo za proste
+level3: cdqwenow
+level4: 171
+level5: napisz liczbę nieparzystą i wcisnij przycisk w 42 sekundzie
+level6: bxd_ex_ex
+level7: kocham cie
+level8: qrupjf162
+ 
+hack me 2.0
+level1: text (usuń hidden)  
+level2: banalne
+level3: 1234
+level4: 102
+level5: przekazac wartosc w adresie log=1&has=1 
+level6: ciastka.htm 
+level7: haslo: cosik (listing.php)
+level8: haslo: kxnxgxnxa
+
+
+hack me 3.0
+level1: hackme
+level2: 1245
+level3: wiola
+level4: ananas
+level5: login=root&haslo=zaqq
+level6: tanie rozmowy! (w linku https://uw-team.org/hm3next/skrypty/admin.php) 
+level7: ' or 1=1 (sql injection)
+level8: iamthebest (robots.txt w linku)
+level9: 12 
+level10: (ciasteczko)
+level11: (przerwa.php)
+level12: (dalsze.php)
+level13: Upm6(26zUpm6.php)
+level14: fajne(fajneqaz.php)
+level15: %62%65ta(ggpr.php)
+koniec: admin secret 
+ 
+
+ctf-uw
+FLG-121212 - w kodzie HTML strony głównej
+FLG-ITS404 - w odwołaniu w arkuszu CSS (jako background, widoczne w błędzie 404)
+FLG-PAGESX - widoczne po zmianie parametru 'page' w adresie na nieobsługiwaną wartość
+FLG-DIRLST - w pliku TXT w katalogu /images/
+FLG-SQLINJ - na stronie z newsami po zastosowaniu SQL Injection w zmiennej 'kod' (baza to SQLite, nie MySQL!)
+FLG-BASE64 - po rozkodowaniu kodu base64 na podstronie z kodowaniem
+
+beta
+%62%65%74%61
+admin::5ebe2294ecd0e0f08eab7690d2a6ee69 secret
+webmaster::a4757d7419ff3b48e92e90596f0e7548 god
+guest::3c3662bcb661d6de679c636744c66b62 sex
+ktos::3ac6de180062dcfd4a046666309f9f1e ktos1
