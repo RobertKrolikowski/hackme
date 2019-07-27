@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\natec\bruteforce natec15\bruteforce natec15\bin\Debug\bruteforce natec15.exe.config
+C:\programowanie\visual 2015\c#\natec\bruteforce natec15\bruteforce natec15\bin\Debug\bruteforce natec15.exe
+C:\programowanie\visual 2015\c#\natec\bruteforce natec15\bruteforce natec15\bin\Debug\bruteforce natec15.pdb
+C:\programowanie\visual 2015\c#\natec\bruteforce natec15\bruteforce natec15\obj\Debug\bruteforce natec15.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\natec\bruteforce natec15\bruteforce natec15\obj\Debug\bruteforce natec15.exe
+C:\programowanie\visual 2015\c#\natec\bruteforce natec15\bruteforce natec15\obj\Debug\bruteforce natec15.pdb

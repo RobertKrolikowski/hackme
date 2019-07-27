@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\natec\natas18\natas18\bin\Debug\natas18.exe.config
+C:\programowanie\visual 2015\c#\natec\natas18\natas18\bin\Debug\natas18.exe
+C:\programowanie\visual 2015\c#\natec\natas18\natas18\bin\Debug\natas18.pdb
+C:\programowanie\visual 2015\c#\natec\natas18\natas18\obj\Debug\natas18.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\natec\natas18\natas18\obj\Debug\natas18.exe
+C:\programowanie\visual 2015\c#\natec\natas18\natas18\obj\Debug\natas18.pdb

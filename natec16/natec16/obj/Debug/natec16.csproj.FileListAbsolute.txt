@@ -1,0 +1,6 @@
+C:\programowanie\visual 2015\c#\natec\natec16\natec16\bin\Debug\natec16.exe.config
+C:\programowanie\visual 2015\c#\natec\natec16\natec16\obj\Debug\natec16.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\natec\natec16\natec16\bin\Debug\natec16.exe
+C:\programowanie\visual 2015\c#\natec\natec16\natec16\bin\Debug\natec16.pdb
+C:\programowanie\visual 2015\c#\natec\natec16\natec16\obj\Debug\natec16.exe
+C:\programowanie\visual 2015\c#\natec\natec16\natec16\obj\Debug\natec16.pdb
